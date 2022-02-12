@@ -104,7 +104,7 @@ else:
 
 ```
 ## Sample Input and Output
-![output](./sarvesh 333)
+![output](./sarvesh 333.png)
 
 
 
